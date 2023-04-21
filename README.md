@@ -27,7 +27,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
     <a href="https://www.instagram.com/k_ilin_" target="_blank">
-      <img src="https://images.app.goo.gl/EsN6pDBbmciDysMu6" width="40" height="40" alt="Instagram"/>
+      <img src="[https://images.app.goo.gl/EsN6pDBbmciDysMu6](https://commons.wikimedia.org/wiki/File:Instagram_logo_2016.svg)" width="40" height="40" alt="Instagram"/>
     </a>
   </div>
 
